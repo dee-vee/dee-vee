@@ -13,7 +13,8 @@ body {
 
 .banner {
 	/*background-color: #E0ECF8;*/
-	background-image: url("./pics_to_add/header.jpeg")
+	background-image: url("./pics_to_add/header.jpeg");
+	margin-top: 0;
 }
 
 h1 {
